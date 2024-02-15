@@ -1,0 +1,37 @@
+{
+  "tc1": {
+    "FreieRechner.java": {
+      "loc": 14.0,
+      "nmo": 1.0,
+      "noc": 0.0,
+      "avgLengthOfId": 8.0,
+      "lcom": 0.0,
+      "avgCC": 3.0,
+      "wmc": 3.0,
+      "nom": 1.0,
+      "dit": 1.0
+    },
+    "ExceptionHelper.java": {
+      "loc": 12.0,
+      "nmo": 0.0,
+      "noc": 0.0,
+      "avgLengthOfId": 14.0,
+      "lcom": 0.0,
+      "avgCC": 1.0,
+      "wmc": 3.0,
+      "nom": 3.0,
+      "dit": 1.0
+    },
+    "Laborplaner.java": {
+      "loc": 81.0,
+      "nmo": 2.0,
+      "noc": 0.0,
+      "avgLengthOfId": 16.8,
+      "lcom": 0.0,
+      "avgCC": 2.2857142857142856,
+      "wmc": 16.0,
+      "nom": 7.0,
+      "dit": 1.0
+    }
+  }
+}

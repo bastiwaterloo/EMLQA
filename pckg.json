@@ -1,0 +1,10 @@
+{
+  "test1" : {
+    "avgNumMethodsOverridden" : 1.75,
+    "rma" : 0.5,
+    "numberOfClasses" : 4.0,
+    "dn" : 0.05555555555555558,
+    "avgWMC" : 12.5,
+    "rmi" : 0.4444444444444444
+  }
+}

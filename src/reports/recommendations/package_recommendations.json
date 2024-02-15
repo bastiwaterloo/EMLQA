@@ -1,0 +1,6 @@
+{
+  "tc1": {
+    "avgWMC": "1. Simplify your methods: Break down complex methods into smaller, simpler methods. This reduces the cyclomatic complexity of each method, thereby reducing the WMC.\\n\\n2. Use helper classes: If a class has too many methods, consider creating helper classes. This can distribute the methods across multiple classes, reducing the WMC of the original class.\\n\\n3. Avoid unnecessary methods: If a method is not necessary, remove it. This reduces the number of methods in a class, thereby reducing the W",
+    "rmi": "focus on reducing the efferent coupling of your package. Efferent coupling refers to the number of classes outside this package that depend on classes within the package. High efferent coupling indicates that your package is heavily dependent on other packages, which can make your code more complex and harder to maintain.\\n\\nHere are some suggestions to improve your code:\\n\\n1. **Encapsulation**: Hide the internal details of your classes as much as possible. Make fields private and provide public getter and setter methods to access"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "tc1": {
+    "avgNumMethodsOverridden": 1.0,
+    "rma": 0.0,
+    "numberOfClasses": 3.0,
+    "dn": 0.4,
+    "avgWMC": 7.333333333333333,
+    "rmi": 0.6
+  }
+}
